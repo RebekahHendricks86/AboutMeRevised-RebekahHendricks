@@ -1,0 +1,33 @@
+.site {
+	margin-left: 50px;
+	margin-top: 50px;
+}
+.text-box {
+	width: 1000px ;
+	height: 1000 px;
+position: relative;
+top: 100px;
+left: 150px 
+
+
+}
+img {
+	display: block;
+	margin: auto;
+	float: left;
+	
+}
+body { 
+background-color: #ffffcc}
+
+.stories-list-title {
+	color: #41618c;
+	font-style: italic;
+}
+h1	{
+	font-weight: bold;
+
+}
+.sources {
+	font-style: italic;
+}
